@@ -1585,7 +1585,7 @@ GameObject:
   - component: {fileID: 533789920}
   - component: {fileID: 533789919}
   m_Layer: 5
-  m_Name: SizeText
+  m_Name: Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1643,7 +1643,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SIZE
+  m_Text: Choose Size
 --- !u!222 &533789920
 CanvasRenderer:
   m_ObjectHideFlags: 0
